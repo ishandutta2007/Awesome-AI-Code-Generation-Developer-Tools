@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools?color=brightgreen" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Code-Generation-Developer-Tools?color=blue" alt="License" /></a>
@@ -69,9 +69,9 @@ The following table provides detailed pricing, free tier limits, company scale, 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top open-source autonomous coding agents, terminal CLIs, AI-native editors, and local LLM routers. Ranked in descending order by **GitHub Star Count**.
+Explore the top open-source autonomous coding agents, terminal CLIs, AI-native editors, and local LLM routers. Ranked in descending order by **GitHub Stars_Count**.
 
-| Project | GitHub Stars | License | Description |
+| Project | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[OpenCode](https://github.com/anomalyco/opencode)** | [![OpenCode Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | `MIT` | Modern terminal-native AI coding agent featuring a polished TUI, LSP diagnostics integration, client/server architecture, and multi-provider LLM support. |
 | **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | [![AutoGPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | `MIT` | Autonomous general-purpose agent toolkit capable of recursive task execution, internet browsing, codebase synthesis, and file generation. |
